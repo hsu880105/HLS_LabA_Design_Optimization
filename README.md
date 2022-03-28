@@ -5,5 +5,5 @@ Do matrix multiplication
 # Build flow
 No
 # Result / Analysis
-![image](https://user-images.githubusercontent.com/43834469/160423842-bb3fd3a0-7c1d-4090-b052-d4b2f2da3ad6.png)
+![image](https://user-images.githubusercontent.com/43834469/160424293-e0f63060-ee62-4d64-ac56-0fd01b3d4cff.png)
 Best: ARRAY_RESHAPE + INTERFACE ap_fifo + PIPELINE rewind + Cache
